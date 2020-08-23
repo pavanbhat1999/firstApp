@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Hello I wrote My first flutter app'),
+      home: MyHomePage(title: 'Hello World I wrote My first flutter app'),
     );
   }
 }
